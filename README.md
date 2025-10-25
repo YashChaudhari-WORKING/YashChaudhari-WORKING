@@ -20,13 +20,37 @@
 
 <img align="right" alt="Coding GIF" width="300" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif"/>
 
-I'm a **Full Stack Developer** passionate about creating reliable web and mobile solutions that solve real problems. Currently contributing to enterprise solutions at **Olio Global AdTech**, I specialize in building scalable applications with React, Next.js, and React Native. 
-
-My work spans from crafting enterprise websites and HRMS systems to developing real-time collaboration tools and marketing platforms that boost engagement. I focus on clean architecture, performance optimization, and user experience while contributing to platforms serving 100+ users in production. 
-
-I believe in continuous learning and building solutions that make a meaningful difference.
+**Full Stack Developer** at **Olio Global AdTech** specializing in React, Next.js, and React Native. I build scalable applications that solve real problems - from enterprise websites to HRMS systems serving 100+ users in production.
 
 <br clear="right"/>
+
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=2000&pause=500&color=764BA2&center=true&vCenter=true&width=435&lines=%F0%9F%8E%93+Education" alt="Education" />
+</div>
+
+### 🏆 Academic Excellence
+
+**Master of Science in Computer Science** *(May 2022 — July 2024)*  
+Shri Shivaji Vidya Prasarak Sanstha's Science College, Dhule, Maharashtra  
+• **CGPA: 9.02**  
+• **Ranked 3rd** in MSc Computer Science (2024)
+
+**Bachelor of Science in Computer Science** *(May 2019 — May 2022)*  
+Shri Shivaji Vidya Prasarak Sanstha's Science College, Dhule, Maharashtra  
+• **CGPA: 9.42**  
+• **Ranked 1st** in BSc Computer Science (2022)
+
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=2000&pause=500&color=764BA2&center=true&vCenter=true&width=435&lines=%F0%9F%92%BC+Currently+Working+On" alt="Current Work" />
+</div>
+
+### 🚀 What I'm Building Now
+
+• **Enterprise HRMS Systems** - React Native mobile solutions for workforce management  
+• **Real-time PMP Chat Application** - Collaborative project management platform  
+• **NovaGrad Scholarship Platform** - Educational technology solutions  
+• **Marketing Landing Pages** - High-conversion campaign pages for enterprise clients  
+• **Performance Optimization** - Scaling applications for production environments
 
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=2000&pause=500&color=764BA2&center=true&vCenter=true&width=435&lines=%F0%9F%9B%A0%EF%B8%8F+Tech+Stack" alt="Tech Stack" />
@@ -74,14 +98,14 @@ I believe in continuous learning and building solutions that make a meaningful d
 <div style="display: flex; gap: 10px; justify-content: center; margin: 20px 0;">
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-667EEA?style=for-the-badge&logo=google-chrome&logoColor=white&gradient=0:667eea,100:764ba2)](https://yash-chaudhari-working.vercel.app/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-764BA2?style=for-the-badge&logo=linkedin&logoColor=white)](your-linkedin-url)
-[![Email](https://img.shields.io/badge/Email-667EEA?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@example.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-764BA2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yash-chaudhari-03733a30b)
+[![Email](https://img.shields.io/badge/Email-667EEA?style=for-the-badge&logo=gmail&logoColor=white)](mailto:choudhariyash7890@gmail.com)
 
 </div>
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=16&duration=4000&pause=2000&color=764BA2&center=true&vCenter=true&width=500&lines=Thanks+for+stopping+by!+%F0%9F%91%8B;Feel+free+to+explore+my+work+%F0%9F%94%8D;Let's+build+the+future+together+%F0%9F%9A%80" alt="Thanks" />
 
-![Visitor Count](https://profile-counter.glitch.me/your-github-username/count.svg)
+![Visitor Count](https://komarev.com/ghpvc/?username=your-github-username&style=for-the-badge&color=667eea)
 
 </div>
 
