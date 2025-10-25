@@ -22,23 +22,11 @@
 
 Hey, I'm Yash — a full-stack developer who loves creating fast, reliable web and mobile solutions. I enjoy transforming concepts into engaging digital experiences with React, Next.js, and React Native.
 
-### ⚙️ Summary
 • Proficient in JavaScript, TypeScript, Node.js, and Redux for robust application development  
 • Expert in frontend optimization, seamless API integration, and maintainable UI design patterns  
 • Solid Computer Science background (Ranked 3rd in M.Sc., 1st in B.Sc.) with strong analytical skills  
 • Driven by problem-solving, mastering cutting-edge frameworks, and building maintainable codebases  
 • Actively pursuing open-source contributions and developing reusable component libraries
-
-### 🏆 Academic Excellence
-• **Master of Science in Computer Science** (May 2022 — July 2024) - CGPA: 9.02, Ranked 3rd  
-• **Bachelor of Science in Computer Science** (May 2019 — May 2022) - CGPA: 9.42, Ranked 1st
-
-### 🚀 What I'm Building Now
-• **Enterprise HRMS Systems** - React Native mobile solutions for workforce management  
-• **Real-time PMP Chat Application** - Collaborative project management platform  
-• **NovaGrad Scholarship Platform** - Educational technology solutions  
-• **Marketing Landing Pages** - High-conversion campaign pages for enterprise clients  
-• **Performance Optimization** - Scaling applications for production environments
 
 <br clear="right"/>
 
@@ -94,8 +82,6 @@ Hey, I'm Yash — a full-stack developer who loves creating fast, reliable web a
 </div>
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=16&duration=4000&pause=2000&color=764BA2&center=true&vCenter=true&width=500&lines=Thanks+for+stopping+by!+%F0%9F%91%8B;Feel+free+to+explore+my+work+%F0%9F%94%8D;Let's+build+the+future+together+%F0%9F%9A%80" alt="Thanks" />
-
-![Visitor Count](https://komarev.com/ghpvc/?username=your-github-username&style=for-the-badge&color=667eea)
 
 </div>
 
