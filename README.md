@@ -22,35 +22,18 @@
 
 **Full Stack Developer** at **Olio Global AdTech** specializing in React, Next.js, and React Native. I build scalable applications that solve real problems - from enterprise websites to HRMS systems serving 100+ users in production.
 
-<br clear="right"/>
-
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=2000&pause=500&color=764BA2&center=true&vCenter=true&width=435&lines=%F0%9F%8E%93+Education" alt="Education" />
-</div>
-
 ### 🏆 Academic Excellence
-
-**Master of Science in Computer Science** *(May 2022 — July 2024)*  
-Shri Shivaji Vidya Prasarak Sanstha's Science College, Dhule, Maharashtra  
-• **CGPA: 9.02**  
-• **Ranked 3rd** in MSc Computer Science (2024)
-
-**Bachelor of Science in Computer Science** *(May 2019 — May 2022)*  
-Shri Shivaji Vidya Prasarak Sanstha's Science College, Dhule, Maharashtra  
-• **CGPA: 9.42**  
-• **Ranked 1st** in BSc Computer Science (2022)
-
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=2000&pause=500&color=764BA2&center=true&vCenter=true&width=435&lines=%F0%9F%92%BC+Currently+Working+On" alt="Current Work" />
-</div>
+• **Master of Science in Computer Science** (May 2022 — July 2024) - CGPA: 9.02, Ranked 3rd  
+• **Bachelor of Science in Computer Science** (May 2019 — May 2022) - CGPA: 9.42, Ranked 1st
 
 ### 🚀 What I'm Building Now
-
 • **Enterprise HRMS Systems** - React Native mobile solutions for workforce management  
 • **Real-time PMP Chat Application** - Collaborative project management platform  
 • **NovaGrad Scholarship Platform** - Educational technology solutions  
 • **Marketing Landing Pages** - High-conversion campaign pages for enterprise clients  
 • **Performance Optimization** - Scaling applications for production environments
+
+<br clear="right"/>
 
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=2000&pause=500&color=764BA2&center=true&vCenter=true&width=435&lines=%F0%9F%9B%A0%EF%B8%8F+Tech+Stack" alt="Tech Stack" />
