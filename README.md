@@ -20,7 +20,14 @@
 
 <img align="right" alt="Coding GIF" width="300" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif"/>
 
-**Full Stack Developer** at **Olio Global AdTech** specializing in React, Next.js, and React Native. I build scalable applications that solve real problems - from enterprise websites to HRMS systems serving 100+ users in production.
+Hey, I'm Yash — a full-stack developer who loves creating fast, reliable web and mobile solutions. I enjoy transforming concepts into engaging digital experiences with React, Next.js, and React Native.
+
+### ⚙️ Summary
+• Proficient in JavaScript, TypeScript, Node.js, and Redux for robust application development  
+• Expert in frontend optimization, seamless API integration, and maintainable UI design patterns  
+• Solid Computer Science background (Ranked 3rd in M.Sc., 1st in B.Sc.) with strong analytical skills  
+• Driven by problem-solving, mastering cutting-edge frameworks, and building maintainable codebases  
+• Actively pursuing open-source contributions and developing reusable component libraries
 
 ### 🏆 Academic Excellence
 • **Master of Science in Computer Science** (May 2022 — July 2024) - CGPA: 9.02, Ranked 3rd  
