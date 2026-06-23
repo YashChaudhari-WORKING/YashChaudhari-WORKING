@@ -1,10 +1,10 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=180&section=header&text=Yash%20Chaudhari&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Developer&descSize=18&descAlignY=58&descColor=a78bfa" />
+# Yash Chaudhari
 
-</div>
+**Full-Stack Developer — Next.js · Node.js · TypeScript · PostgreSQL**
 
-<div align="center">
+End-to-end ownership: system design, APIs, and deployment — not just tickets to done.
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-0f0c29?style=flat-square&logo=google-chrome&logoColor=a78bfa)](https://yash-chaudhari-working.vercel.app)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0f0c29?style=flat-square&logo=linkedin&logoColor=a78bfa)](https://linkedin.com/in/yash-chaudhari-03733a30b)
@@ -13,56 +13,33 @@
 
 </div>
 
-<br/>
-
 ---
 
-<img align="right" width="360" src="https://github-readme-stats.vercel.app/api?username=YashChaudhari-WORKING&show_icons=true&theme=midnight-purple&hide_border=true&count_private=true&hide=stars&include_all_commits=true" />
+Full-stack developer in Mumbai, currently at **Olio Global AdTech** building production SaaS across
+EdTech, WhatsApp automation, and AI platforms. M.Sc. Computer Science (Rank 3, 9.02). Open to
+full-stack roles in the EU.
 
-**Full-stack developer based in Mumbai.**  
-Currently at **Olio Global AdTech** building  
-production SaaS across EdTech, WhatsApp  
-automation, and AI-powered platforms.
+### Featured — AskBase
 
-**Shipped in production:**
-- 2,000+ leads/month via automated pipelines
-- WhatsApp SaaS · RAG pipeline · pgvector
-- Page load 3.2s → 0.9s · 90+ Lighthouse
-- 150+ monthly visitors · 5 active clients
+**AI support agents that answer only from your documents, never from thin air.** → [askbase.io](https://askbase.io)
 
-M.Sc. CS · 3rd Rank · 9.02 &nbsp;|&nbsp; B.Sc. CS · 1st Rank · 9.42  
+Multi-tenant RAG platform: hybrid retrieval (pgvector + BM25, merged with RRF), HyDE query
+expansion, cross-encoder reranking, and per-response faithfulness scoring. Low-confidence answers
+escalate to a human agent in a live console with full context. Express + TypeScript · Next.js 15 ·
+PostgreSQL 16 + pgvector · Redis · Socket.io.
 
-📍 Mumbai &nbsp;·&nbsp; 💼 Open to full-stack roles in EU
+### Shipped in production
+- WhatsApp marketing SaaS on Meta Cloud API — built the BSP credit-line + onboarding integration
+- 2,000+ student leads/month via automated scraping + capture pipelines
+- Cut average API response time 40% (queue tuning, indexing, async batching)
+- Page load 3.2s → 0.9s, 90+ Lighthouse across SSR/SSG product platforms
 
-<br clear="right"/>
-
----
-
-<div align="center">
-<img src="https://skillicons.dev/icons?i=ts,nodejs,nextjs,react,postgres,redis,docker,mongodb,tailwind,git&theme=dark" />
-</div>
-
----
-
-**What I work with**
-
-Frontend   →  Next.js 15, React, TypeScript, Redux, Tailwind CSS
-Backend    →  Node.js, Express, REST API, GraphQL, BullMQ, WebSockets
-Database   →  PostgreSQL + pgvector, MongoDB, Redis
-AI/LLM     →  RAG pipelines, Gemini, Groq, LLM integration, hybrid search
-DevOps     →  Docker, GitHub Actions, CI/CD, Railway, Vercel
-
-
----
+### Stack
+`TypeScript` `Node.js` `Express` `Next.js` `React` `PostgreSQL` `pgvector` `MongoDB` `Redis` `Docker` `BullMQ`
 
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YashChaudhari-WORKING&layout=compact&theme=midnight-purple&hide_border=true&langs_count=6" />
-</div>
-
-<div align="center">
-<img src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg" width="100%" />
-</div>
-
-<div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer" />
+<img src="https://skillicons.dev/icons?i=ts,nodejs,express,nextjs,react,postgres,redis,docker,mongodb,tailwind&theme=dark" />
+<br/><br/>
+<img height="150" src="https://github-readme-stats.vercel.app/api?username=YashChaudhari-WORKING&show_icons=true&theme=midnight-purple&hide_border=true&count_private=true&include_all_commits=true&hide=stars" />
+<img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YashChaudhari-WORKING&layout=compact&theme=midnight-purple&hide_border=true&langs_count=6" />
 </div>
