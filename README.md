@@ -44,7 +44,7 @@ bundle size **−40%**.
 
 ## Featured projects
 
-**[AskBase](https://askbase.io) — AI support agents that answer only from your documents.**
+**[AskBase](https://ask-base-web.vercel.app) — AI support agents that answer only from your documents.**
 Multi-tenant RAG platform: hybrid retrieval (pgvector + BM25, merged with RRF), HyDE query expansion,
 cross-encoder reranking, per-response faithfulness scoring, and human handoff to a live console.
 Express + TypeScript · Next.js 15 · PostgreSQL 16 + pgvector · Redis · Socket.io.
